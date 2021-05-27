@@ -1,0 +1,114 @@
+
+h1
+{
+	
+	color: #ff14c7;
+	text-align: center;
+	background-color: black;
+font-family: fantasy;
+    font-size: 70;
+
+
+}
+
+h2
+{
+ color: #fffc24;
+background-color: #24a1ff; 
+	font-family: serif;
+	text-align: center;
+	font-size: 35;
+}
+
+
+ol{
+	font-family: sans sefif;
+	border: none
+	
+}
+
+body{
+	
+	background-color:#3624ff ;
+}
+
+
+h3 {
+	
+	color:#fffc24 ;
+	border: 2 px blue solid;
+	text-align: center;
+font-size: 30;
+
+}
+
+
+
+img{
+	
+	
+	float: right;
+	border: 3.5px #fffc24 solid;
+	border-radius: 30px;
+    margin-top: 20px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+p{
+	border: none;
+font-size: 24;	
+	
+	
+	
+	
+	
+}
+
+div {
+
+    width: 800px;
+	padding: 40px;
+	border: 10px #24a1ff solid;
+	background:#24ffe0;
+	border-radius: 50px;
+	box-shadow: 20px 20px 50px #023047;
+	margin-bottom: 60px;
+    margin-left: auto;
+	margin-right: auto;
+
+
+
+}	
+	
+li{
+	font-size: 27;
+	
+	
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
